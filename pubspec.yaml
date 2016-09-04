@@ -1,0 +1,5 @@
+name: books_demo
+description: Flutter books list demo.
+dependencies:
+  flutter:
+    path: ../flutter/packages/flutter
